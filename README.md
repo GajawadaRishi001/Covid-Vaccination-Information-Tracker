@@ -1,1 +1,0 @@
-# Covid-Vaccination-Information-Tracker
